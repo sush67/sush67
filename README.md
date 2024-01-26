@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sush67
-- 👀 I’m interested in App Development and Data Science
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Sushma
+- 👀 Iam a DevOps Engineer with 1+ years of hands-on experience on Jenkins, python scripting and ansible automation.
+- 🔭 I explore and work with monitoring tools like Icinga, Splunk, and Pagerduty on a daily basis.
+- 🌱 Iam currently learning kubernetes
 - 📫 Let's talk about tech ! Connect with me through [LinkedIn](https://www.linkedin.com/in/sushma-hegde-438826190/)
 
 <!---
